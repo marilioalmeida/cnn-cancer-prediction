@@ -1,8 +1,8 @@
-import numpy as np
+import numpy as np 
 import os
 import random
 from datetime import datetime as DT
-import shutil
+import shutil 
 
 def clear_output_directory(output_directory):
     if os.path.exists(output_directory):
@@ -46,15 +46,16 @@ def process_samples(path, output_file_name):
     print(f"Processing of {output_file_name} completed successfully.")
 
 # Clear output directory
-output_directory = './datasets/output/'
+output_directory = os.path.abspath('./datasets/output/')
+ 
 clear_output_directory(output_directory)
 
 # Process training samples
-training_path = './datasets/training_samples/'
-training_output_file_name = './datasets/output/Example_training_1228_TCGA_samples'
+training_path = os.path.abspath('./datasets/training/')
+training_output_file_name = os.path.abspath('./datasets/output/training_1228_TCGA')
 process_samples(training_path, training_output_file_name)
 
 # Process validation samples
-validation_path = './datasets/validation_samples/'
-validation_output_file_name = './datasets/output/Example_validation_4908_TCGA_samples'
+validation_path = os.path.abspath('./datasets/validation/')
+validation_output_file_name = os.path.abspath('./datasets/output/validation_4908_TCGA')
 process_samples(validation_path, validation_output_file_name)
