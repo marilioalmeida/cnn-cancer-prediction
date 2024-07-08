@@ -45,17 +45,23 @@ def process_samples(path, output_file_name):
     print(x_samples.shape, y_labels.shape)
     print(f"Processing of {output_file_name} completed successfully.")
 
-# Clear output directory
-output_directory = os.path.abspath('./datasets/output/')
+
  
-clear_output_directory(output_directory)
+def main():
+    # Clear output directory
+    output_directory = os.path.abspath('./datasets/output/')
+    
+    clear_output_directory(output_directory)
 
-# Process training samples
-training_path = os.path.abspath('./datasets/training/')
-training_output_file_name = os.path.abspath('./datasets/output/training_1228_TCGA')
-process_samples(training_path, training_output_file_name)
+    # Process training samples
+    training_path = os.path.abspath('./datasets/training/')
+    training_output_file_name = os.path.abspath('./datasets/output/training_1228_TCGA')
+    process_samples(training_path, training_output_file_name)
 
-# Process validation samples
-validation_path = os.path.abspath('./datasets/validation/')
-validation_output_file_name = os.path.abspath('./datasets/output/validation_4908_TCGA')
-process_samples(validation_path, validation_output_file_name)
+    # Process validation samples
+    validation_path = os.path.abspath('./datasets/validation/')
+    validation_output_file_name = os.path.abspath('./datasets/output/validation_4908_TCGA')
+    process_samples(validation_path, validation_output_file_name)
+
+if __name__ == "__main__":
+    main()

@@ -1,0 +1,60 @@
+Model: "model"
+__________________________________________________________________________________________________
+ Layer (type)                   Output Shape         Param #     Connected to                     
+==================================================================================================
+ input_1 (InputLayer)           [(None, 100, 100, 1  0           []                               
+                                )]                                                                
+                                                                                                  
+ concatenate (Concatenate)      (None, 100, 100, 3)  0           ['input_1[0][0]',                
+                                                                  'input_1[0][0]',                
+                                                                  'input_1[0][0]']                
+                                                                                                  
+ block1_conv1 (Conv2D)          (None, 100, 100, 64  1792        ['concatenate[0][0]']            
+                                )                                                                 
+                                                                                                  
+ block1_conv2 (Conv2D)          (None, 100, 100, 64  36928       ['block1_conv1[0][0]']           
+                                )                                                                 
+                                                                                                  
+ block1_pool (MaxPooling2D)     (None, 50, 50, 64)   0           ['block1_conv2[0][0]']           
+                                                                                                  
+ block2_conv1 (Conv2D)          (None, 50, 50, 128)  73856       ['block1_pool[0][0]']            
+                                                                                                  
+ block2_conv2 (Conv2D)          (None, 50, 50, 128)  147584      ['block2_conv1[0][0]']           
+                                                                                                  
+ block2_pool (MaxPooling2D)     (None, 25, 25, 128)  0           ['block2_conv2[0][0]']           
+                                                                                                  
+ block3_conv1 (Conv2D)          (None, 25, 25, 256)  295168      ['block2_pool[0][0]']            
+                                                                                                  
+ block3_conv2 (Conv2D)          (None, 25, 25, 256)  590080      ['block3_conv1[0][0]']           
+                                                                                                  
+ block3_conv3 (Conv2D)          (None, 25, 25, 256)  590080      ['block3_conv2[0][0]']           
+                                                                                                  
+ block3_pool (MaxPooling2D)     (None, 12, 12, 256)  0           ['block3_conv3[0][0]']           
+                                                                                                  
+ block4_conv1 (Conv2D)          (None, 12, 12, 512)  1180160     ['block3_pool[0][0]']            
+                                                                                                  
+ block4_conv2 (Conv2D)          (None, 12, 12, 512)  2359808     ['block4_conv1[0][0]']           
+                                                                                                  
+ block4_conv3 (Conv2D)          (None, 12, 12, 512)  2359808     ['block4_conv2[0][0]']           
+                                                                                                  
+ block4_pool (MaxPooling2D)     (None, 6, 6, 512)    0           ['block4_conv3[0][0]']           
+                                                                                                  
+ block5_conv1 (Conv2D)          (None, 6, 6, 512)    2359808     ['block4_pool[0][0]']            
+                                                                                                  
+ block5_conv2 (Conv2D)          (None, 6, 6, 512)    2359808     ['block5_conv1[0][0]']           
+                                                                                                  
+ block5_conv3 (Conv2D)          (None, 6, 6, 512)    2359808     ['block5_conv2[0][0]']           
+                                                                                                  
+ block5_pool (MaxPooling2D)     (None, 3, 3, 512)    0           ['block5_conv3[0][0]']           
+                                                                                                  
+ global_average_pooling2d (Glob  (None, 512)         0           ['block5_pool[0][0]']            
+ alAveragePooling2D)                                                                              
+                                                                                                  
+ dense (Dense)                  (None, 12)           6156        ['global_average_pooling2d[0][0]'
+                                                                 ]                                
+                                                                                                  
+==================================================================================================
+Total params: 14,720,844
+Trainable params: 14,720,844
+Non-trainable params: 0
+__________________________________________________________________________________________________

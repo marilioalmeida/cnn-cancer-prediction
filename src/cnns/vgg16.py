@@ -15,13 +15,9 @@ def build_cnn_model(input_shape):
     img_conc = Concatenate()([img_input, img_input, img_input])  
     base_model = VGG16(weights='imagenet', include_top=False, input_tensor=img_conc)
     x = base_model.output
-    x = Flatten()(x)
-    x = Dense(4096, activation='relu')(x)
-    x = Dropout(0.5)(x)
-    x = Dense(4096, activation='relu')(x)
-    x = Dropout(0.5)(x)
-    output = Dense(12, activation='softmax')(x)
-    model = Model(inputs=base_model.input, outputs=output)
+    x = GlobalAveragePooling2D()(x) 
+    predictions = Dense(12, activation='softmax')(x)  
+    model = Model(inputs=base_model.input, outputs=predictions)  
     return model
 
  

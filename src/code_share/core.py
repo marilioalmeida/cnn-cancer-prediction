@@ -19,7 +19,7 @@ import pandas as pd
 
 def configure_paths(model_name):
     os.environ["CUDA_VISIBLE_DEVICES"] = "0"
-    os.environ["TF_CPP_MIN_LOG_LEVEL"] = "3"
+    os.environ['TF_CPP_MIN_LOG_LEVEL'] = '3'
     warnings.filterwarnings('ignore')
     matplotlib.use("Agg")
     MODEL_NAME = model_name

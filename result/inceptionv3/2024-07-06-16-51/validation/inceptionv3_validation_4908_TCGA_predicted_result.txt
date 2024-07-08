@@ -1,0 +1,572 @@
+Predict-result:
+1	Sample Name:	LUSC-T56-6-TCGA-33-4566-01A-01R-1443-07	Actual:	6	Predict:	3
+2	Sample Name:	STAD-T226-10-TCGA-HU-A4H6-01A-11R-A251-31	Actual:	10	Predict:	3
+3	Sample Name:	HNSC-T356-8-TCGA-QK-AA3J-01A-11R-A39I-07	Actual:	8	Predict:	6
+4	Sample Name:	HNSC-T324-8-TCGA-BB-A5HY-01A-11R-A28V-07	Actual:	8	Predict:	6
+5	Sample Name:	LUSC-T167-6-TCGA-85-8287-01A-11R-2296-07	Actual:	6	Predict:	3
+6	Sample Name:	HNSC-T203-8-TCGA-CV-7248-01A-11R-2016-07	Actual:	8	Predict:	3
+7	Sample Name:	LUSC-T462-6-TCGA-NK-A5CT-01A-31R-A26W-07	Actual:	6	Predict:	3
+8	Sample Name:	STAD-T22-10-TCGA-BR-A453-01A-11R-A24K-31	Actual:	10	Predict:	0
+9	Sample Name:	LUSC-T325-6-TCGA-60-2712-01A-01R-0851-07	Actual:	6	Predict:	3
+10	Sample Name:	LUSC-T194-6-TCGA-90-A4ED-01A-31R-A24Z-07	Actual:	6	Predict:	3
+11	Sample Name:	HNSC-T305-8-TCGA-F7-A624-01A-22R-A30B-07	Actual:	8	Predict:	3
+12	Sample Name:	LIHC-T74-7-TCGA-UB-AA0V-01A-11R-A38B-07	Actual:	7	Predict:	0
+13	Sample Name:	LUSC-T430-6-TCGA-56-6546-01A-11R-1820-07	Actual:	6	Predict:	3
+14	Sample Name:	LUSC-T8-6-TCGA-34-8456-01A-21R-2326-07	Actual:	6	Predict:	3
+15	Sample Name:	HNSC-T263-8-TCGA-MT-A7BN-01A-12R-A34R-07	Actual:	8	Predict:	1
+16	Sample Name:	LUSC-T437-6-TCGA-77-8143-01A-11R-2247-07	Actual:	6	Predict:	3
+17	Sample Name:	HNSC-T503-8-TCGA-CN-4723-01A-01R-1436-07	Actual:	8	Predict:	6
+18	Sample Name:	LUSC-T145-6-TCGA-85-A4PA-01A-11R-A24Z-07	Actual:	6	Predict:	3
+19	Sample Name:	HNSC-T286-8-TCGA-CV-7235-01A-11R-2016-07	Actual:	8	Predict:	3
+20	Sample Name:	HNSC-T8-8-TCGA-BB-7862-01A-21R-2232-07	Actual:	8	Predict:	3
+21	Sample Name:	LUSC-T170-6-TCGA-68-7756-01A-11R-2125-07	Actual:	6	Predict:	3
+22	Sample Name:	THCA-T147-4-TCGA-BJ-A28T-01A-11R-A16R-07	Actual:	4	Predict:	0
+23	Sample Name:	LUAD-T461-3-TCGA-78-7163-01A-12R-2066-07	Actual:	3	Predict:	4
+24	Sample Name:	LUSC-T279-6-TCGA-58-A46K-01A-11R-A24H-07	Actual:	6	Predict:	3
+25	Sample Name:	HNSC-T405-8-TCGA-IQ-A61G-01A-11R-A30B-07	Actual:	8	Predict:	6
+26	Sample Name:	LUSC-T177-6-TCGA-56-8309-01A-11R-2296-07	Actual:	6	Predict:	3
+27	Sample Name:	LUSC-T146-6-TCGA-85-A4QQ-01A-41R-A262-07	Actual:	6	Predict:	3
+28	Sample Name:	LIHC-T298-7-TCGA-CC-A9FV-01A-11R-A37K-07	Actual:	7	Predict:	2
+29	Sample Name:	BRCA-T901-1-TCGA-BH-A208-01A-11R-A157-07	Actual:	1	Predict:	2
+30	Sample Name:	HNSC-T369-8-TCGA-UF-A71B-01A-12R-A34R-07	Actual:	8	Predict:	6
+31	Sample Name:	HNSC-T372-8-TCGA-HD-7754-01A-11R-2081-07	Actual:	8	Predict:	6
+32	Sample Name:	LUSC-T356-6-TCGA-60-2706-01A-01R-0851-07	Actual:	6	Predict:	3
+33	Sample Name:	LUSC-T392-6-TCGA-58-8388-01A-11R-2326-07	Actual:	6	Predict:	3
+34	Sample Name:	HNSC-T489-8-TCGA-CR-6478-01A-11R-1873-07	Actual:	8	Predict:	3
+35	Sample Name:	HNSC-T514-8-TCGA-UF-A71E-01A-31R-A34R-07	Actual:	8	Predict:	6
+36	Sample Name:	BRCA-N81-0-TCGA-E2-A1L7-11A-33R-A144-07	Actual:	0	Predict:	1
+37	Sample Name:	LUSC-T74-6-TCGA-60-2695-01A-01R-0851-07	Actual:	6	Predict:	3
+38	Sample Name:	LUAD-T113-3-TCGA-69-8255-01A-11R-2287-07	Actual:	3	Predict:	7
+39	Sample Name:	PRAD-N28-0-TCGA-G9-6363-11A-01R-1789-07	Actual:	0	Predict:	5
+40	Sample Name:	STAD-T55-10-TCGA-BR-8483-01A-31R-2402-13	Actual:	10	Predict:	9
+41	Sample Name:	LUSC-T476-6-TCGA-63-7020-01A-11R-1949-07	Actual:	6	Predict:	3
+42	Sample Name:	LUSC-T421-6-TCGA-21-1083-01A-01R-0692-07	Actual:	6	Predict:	3
+43	Sample Name:	BRCA-T467-1-TCGA-GM-A4E0-01A-12R-A266-07	Actual:	1	Predict:	2
+44	Sample Name:	HNSC-T297-8-TCGA-BB-4227-01A-01R-1873-07	Actual:	8	Predict:	6
+45	Sample Name:	LUSC-T171-6-TCGA-43-7656-01A-11R-2125-07	Actual:	6	Predict:	3
+46	Sample Name:	LUSC-T377-6-TCGA-85-A510-01A-11R-A26W-07	Actual:	6	Predict:	3
+47	Sample Name:	LUAD-N15-0-TCGA-55-6981-11A-01R-1949-07	Actual:	0	Predict:	3
+48	Sample Name:	HNSC-T419-8-TCGA-QK-A8ZA-01A-11R-A39I-07	Actual:	8	Predict:	6
+49	Sample Name:	KIRP-N21-0-TCGA-BQ-7059-11A-01R-1965-07	Actual:	0	Predict:	2
+50	Sample Name:	KIRC-T53-2-TCGA-A3-3328-01A-01R-0864-07	Actual:	2	Predict:	5
+51	Sample Name:	STAD-T98-10-TCGA-HU-A4GJ-01A-11R-A251-31	Actual:	10	Predict:	0
+52	Sample Name:	HNSC-T462-8-TCGA-KU-A6H7-01A-11R-A31N-07	Actual:	8	Predict:	1
+53	Sample Name:	STAD-T326-10-TCGA-CG-5734-01A-11R-1602-13	Actual:	10	Predict:	0
+54	Sample Name:	HNSC-T420-8-TCGA-CQ-6228-01A-11R-1915-07	Actual:	8	Predict:	3
+55	Sample Name:	HNSC-T143-8-TCGA-BA-4078-01A-01R-1436-07	Actual:	8	Predict:	6
+56	Sample Name:	KIRP-N4-0-TCGA-BQ-7051-11A-02R-1965-07	Actual:	0	Predict:	2
+57	Sample Name:	HNSC-T455-8-TCGA-CV-6939-01A-11R-1915-07	Actual:	8	Predict:	3
+58	Sample Name:	KIRP-T230-11-TCGA-BQ-5892-01A-11R-1592-07	Actual:	11	Predict:	2
+59	Sample Name:	KIRC-T51-2-TCGA-BP-4334-01A-01R-1289-07	Actual:	2	Predict:	5
+60	Sample Name:	LUSC-T195-6-TCGA-43-2578-01A-01R-0851-07	Actual:	6	Predict:	3
+61	Sample Name:	BRCA-T770-1-TCGA-S3-AA15-01A-11R-A41B-07	Actual:	1	Predict:	2
+62	Sample Name:	HNSC-T401-8-TCGA-QK-AA3K-01A-11R-A39I-07	Actual:	8	Predict:	1
+63	Sample Name:	LIHC-T36-7-TCGA-CC-A7IJ-01A-11R-A33R-07	Actual:	7	Predict:	2
+64	Sample Name:	LUSC-T240-6-TCGA-68-8250-01A-11R-2296-07	Actual:	6	Predict:	3
+65	Sample Name:	LUSC-T152-6-TCGA-60-2696-01A-01R-0851-07	Actual:	6	Predict:	3
+66	Sample Name:	HNSC-T175-8-TCGA-H7-A76A-01A-51R-A34R-07	Actual:	8	Predict:	6
+67	Sample Name:	STAD-T25-10-TCGA-R5-A7ZE-01B-11R-A354-31	Actual:	10	Predict:	3
+68	Sample Name:	COAD-T107-9-TCGA-A6-6651-01A-21R-1839-07	Actual:	9	Predict:	2
+69	Sample Name:	STAD-T143-10-TCGA-IN-A6RN-01A-12R-A33Y-31	Actual:	10	Predict:	3
+70	Sample Name:	KIRC-T129-2-TCGA-B0-4688-01A-01R-1277-07	Actual:	2	Predict:	3
+71	Sample Name:	BRCA-T445-1-TCGA-AO-A03U-01B-21R-A10J-07	Actual:	1	Predict:	3
+72	Sample Name:	HNSC-T434-8-TCGA-CV-7250-01A-11R-2016-07	Actual:	8	Predict:	3
+73	Sample Name:	LUSC-T450-6-TCGA-85-8048-01A-11R-2247-07	Actual:	6	Predict:	3
+74	Sample Name:	STAD-T331-10-TCGA-BR-A44T-01A-32R-A24K-31	Actual:	10	Predict:	2
+75	Sample Name:	HNSC-T38-8-TCGA-BB-7871-01A-11R-2232-07	Actual:	8	Predict:	6
+76	Sample Name:	LUAD-T45-3-TCGA-55-7816-01A-11R-2170-07	Actual:	3	Predict:	0
+77	Sample Name:	KIRP-T112-11-TCGA-2Z-A9J9-01A-11R-A42S-07	Actual:	11	Predict:	2
+78	Sample Name:	LUSC-T199-6-TCGA-85-7699-01A-11R-2125-07	Actual:	6	Predict:	1
+79	Sample Name:	HNSC-T51-8-TCGA-CV-5443-01A-01R-1514-07	Actual:	8	Predict:	6
+80	Sample Name:	PRAD-N46-0-TCGA-EJ-7317-11A-01R-2118-07	Actual:	0	Predict:	5
+81	Sample Name:	LUSC-T307-6-TCGA-60-2716-01A-01R-0851-07	Actual:	6	Predict:	3
+82	Sample Name:	HNSC-T346-8-TCGA-CV-7446-01A-11R-2232-07	Actual:	8	Predict:	3
+83	Sample Name:	LUSC-T320-6-TCGA-98-7454-01A-11R-2045-07	Actual:	6	Predict:	3
+84	Sample Name:	HNSC-T497-8-TCGA-CN-5367-01A-01R-1436-07	Actual:	8	Predict:	3
+85	Sample Name:	HNSC-T2-8-TCGA-D6-A74Q-01A-11R-A34R-07	Actual:	8	Predict:	6
+86	Sample Name:	HNSC-T67-8-TCGA-CQ-6221-01A-11R-2081-07	Actual:	8	Predict:	3
+87	Sample Name:	LUSC-T319-6-TCGA-22-5485-01A-01R-1635-07	Actual:	6	Predict:	3
+88	Sample Name:	HNSC-T78-8-TCGA-CN-4731-01A-01R-1436-07	Actual:	8	Predict:	3
+89	Sample Name:	LUSC-T223-6-TCGA-21-1076-01A-02R-0692-07	Actual:	6	Predict:	3
+90	Sample Name:	LUSC-T201-6-TCGA-22-5492-01A-01R-1635-07	Actual:	6	Predict:	3
+91	Sample Name:	HNSC-T22-8-TCGA-RS-A6TP-01A-12R-A34R-07	Actual:	8	Predict:	3
+92	Sample Name:	KIRP-T59-11-TCGA-P4-A5E8-01A-11R-A28H-07	Actual:	11	Predict:	3
+93	Sample Name:	HNSC-T343-8-TCGA-CR-7371-01A-11R-2016-07	Actual:	8	Predict:	6
+94	Sample Name:	HNSC-T153-8-TCGA-DQ-7590-01A-11R-2232-07	Actual:	8	Predict:	1
+95	Sample Name:	KIRP-T101-11-TCGA-A4-8312-01A-11R-2404-07	Actual:	11	Predict:	2
+96	Sample Name:	HNSC-N19-0-TCGA-CV-7432-11A-01R-2132-07	Actual:	0	Predict:	3
+97	Sample Name:	HNSC-N43-0-TCGA-HD-A6I0-11A-11R-A31N-07	Actual:	0	Predict:	8
+98	Sample Name:	LUSC-T331-6-TCGA-39-5011-01A-01R-1443-07	Actual:	6	Predict:	3
+99	Sample Name:	BRCA-T94-1-TCGA-BH-A6R9-01A-21R-A32P-07	Actual:	1	Predict:	2
+100	Sample Name:	KIRC-T30-2-TCGA-AK-3465-01A-02R-1325-07	Actual:	2	Predict:	11
+101	Sample Name:	LUSC-T297-6-TCGA-34-2596-01A-01R-0851-07	Actual:	6	Predict:	3
+102	Sample Name:	PRAD-T213-5-TCGA-G9-6370-01A-11R-1789-07	Actual:	5	Predict:	0
+103	Sample Name:	BRCA-N41-0-TCGA-BH-A1EW-11B-33R-A137-07	Actual:	0	Predict:	1
+104	Sample Name:	KIRC-N10-0-TCGA-A3-3358-11A-01R-1541-07	Actual:	0	Predict:	2
+105	Sample Name:	LUSC-T458-6-TCGA-22-A5C4-01A-12R-A27Q-07	Actual:	6	Predict:	3
+106	Sample Name:	STAD-T308-10-TCGA-BR-4294-01A-01R-1131-13	Actual:	10	Predict:	3
+107	Sample Name:	LUSC-T231-6-TCGA-60-2725-01A-01R-1201-07	Actual:	6	Predict:	3
+108	Sample Name:	HNSC-T108-8-TCGA-F7-8298-01A-11R-2403-07	Actual:	8	Predict:	3
+109	Sample Name:	LUSC-T314-6-TCGA-90-7766-01A-21R-2125-07	Actual:	6	Predict:	3
+110	Sample Name:	STAD-T237-10-TCGA-ZQ-A9CR-01A-11R-A39E-31	Actual:	10	Predict:	3
+111	Sample Name:	LUSC-T209-6-TCGA-22-1005-01A-01R-0692-07	Actual:	6	Predict:	3
+112	Sample Name:	STAD-T150-10-TCGA-IN-AB1X-01A-11R-A39E-31	Actual:	10	Predict:	3
+113	Sample Name:	HNSC-T362-8-TCGA-CV-5978-01A-11R-1686-07	Actual:	8	Predict:	6
+114	Sample Name:	STAD-T377-10-TCGA-RD-A8N4-01A-21R-A36D-31	Actual:	10	Predict:	0
+115	Sample Name:	HNSC-T54-8-TCGA-CQ-A4C9-01A-11R-A24Z-07	Actual:	8	Predict:	6
+116	Sample Name:	STAD-T65-10-TCGA-R5-A7ZF-01A-11R-A354-31	Actual:	10	Predict:	8
+117	Sample Name:	LUSC-T415-6-TCGA-77-6845-01A-11R-1949-07	Actual:	6	Predict:	3
+118	Sample Name:	KIRP-T115-11-TCGA-BQ-5883-01A-11R-1592-07	Actual:	11	Predict:	3
+119	Sample Name:	BRCA-T1090-1-TCGA-E2-A1LL-01A-11R-A144-07	Actual:	1	Predict:	3
+120	Sample Name:	THCA-T473-4-TCGA-BJ-A0ZG-01A-11R-A10U-07	Actual:	4	Predict:	0
+121	Sample Name:	LUSC-T346-6-TCGA-90-A59Q-01A-11R-A26W-07	Actual:	6	Predict:	3
+122	Sample Name:	HNSC-T172-8-TCGA-D6-A6EO-01A-11R-A31N-07	Actual:	8	Predict:	3
+123	Sample Name:	LUSC-T261-6-TCGA-77-6842-01A-11R-1949-07	Actual:	6	Predict:	3
+124	Sample Name:	KIRC-T490-2-TCGA-BP-4756-01A-01R-1289-07	Actual:	2	Predict:	11
+125	Sample Name:	KIRP-T258-11-TCGA-KV-A6GD-01A-11R-A31O-07	Actual:	11	Predict:	2
+126	Sample Name:	STAD-T351-10-TCGA-RD-A8N0-01A-12R-A36D-31	Actual:	10	Predict:	3
+127	Sample Name:	HNSC-T130-8-TCGA-BA-6871-01A-11R-1873-07	Actual:	8	Predict:	6
+128	Sample Name:	HNSC-T118-8-TCGA-D6-6824-01A-11R-1915-07	Actual:	8	Predict:	3
+129	Sample Name:	HNSC-T519-8-TCGA-P3-A5Q5-01A-11R-A28V-07	Actual:	8	Predict:	6
+130	Sample Name:	LUSC-T275-6-TCGA-56-A4BY-01A-11R-A24H-07	Actual:	6	Predict:	3
+131	Sample Name:	LUSC-T63-6-TCGA-90-6837-01A-11R-1949-07	Actual:	6	Predict:	3
+132	Sample Name:	LUSC-T433-6-TCGA-77-8131-01A-11R-2247-07	Actual:	6	Predict:	3
+133	Sample Name:	KIRP-T76-11-TCGA-BQ-5889-01A-11R-1592-07	Actual:	11	Predict:	2
+134	Sample Name:	LUSC-T391-6-TCGA-21-1071-01A-01R-0692-07	Actual:	6	Predict:	3
+135	Sample Name:	HNSC-T251-8-TCGA-T3-A92M-01A-31R-A39I-07	Actual:	8	Predict:	6
+136	Sample Name:	LUSC-N26-0-TCGA-56-7582-11A-01R-2045-07	Actual:	0	Predict:	3
+137	Sample Name:	BRCA-N38-0-TCGA-BH-A1FG-11B-12R-A13Q-07	Actual:	0	Predict:	1
+138	Sample Name:	LUSC-N38-0-TCGA-51-4081-11A-01R-1758-07	Actual:	0	Predict:	3
+139	Sample Name:	BRCA-N76-0-TCGA-BH-A0HA-11A-31R-A12P-07	Actual:	0	Predict:	5
+140	Sample Name:	STAD-T63-10-TCGA-CG-4443-01A-01R-1157-13	Actual:	10	Predict:	3
+141	Sample Name:	STAD-T398-10-TCGA-CG-5718-01A-11R-1602-13	Actual:	10	Predict:	3
+142	Sample Name:	LUSC-T386-6-TCGA-66-2756-01A-01R-0851-07	Actual:	6	Predict:	3
+143	Sample Name:	KIRC-T410-2-TCGA-B4-5835-01A-11R-1672-07	Actual:	2	Predict:	11
+144	Sample Name:	LUSC-T404-6-TCGA-85-8351-01A-11R-2296-07	Actual:	6	Predict:	3
+145	Sample Name:	KIRP-T169-11-TCGA-AL-3466-01A-02R-1351-07	Actual:	11	Predict:	10
+146	Sample Name:	HNSC-T335-8-TCGA-CN-A63U-01A-11R-A30B-07	Actual:	8	Predict:	6
+147	Sample Name:	KIRC-N66-0-TCGA-CJ-5681-11A-01R-1541-07	Actual:	0	Predict:	3
+148	Sample Name:	HNSC-T431-8-TCGA-DQ-5629-01A-01R-1873-07	Actual:	8	Predict:	6
+149	Sample Name:	LUAD-N54-0-TCGA-55-6978-11A-01R-1949-07	Actual:	0	Predict:	3
+150	Sample Name:	STAD-T5-10-TCGA-RD-A8N2-01A-12R-A36D-31	Actual:	10	Predict:	0
+151	Sample Name:	LUSC-T90-6-TCGA-77-8153-01A-11R-2403-07	Actual:	6	Predict:	3
+152	Sample Name:	LUSC-T483-6-TCGA-77-7141-01A-11R-2045-07	Actual:	6	Predict:	3
+153	Sample Name:	LUSC-T318-6-TCGA-21-1076-01A-01R-0692-07	Actual:	6	Predict:	3
+154	Sample Name:	LUSC-T52-6-TCGA-37-4132-01A-01R-1100-07	Actual:	6	Predict:	3
+155	Sample Name:	KIRP-T16-11-TCGA-A4-7828-01A-11R-2139-07	Actual:	11	Predict:	2
+156	Sample Name:	LUSC-T405-6-TCGA-63-A5MM-01A-11R-A26W-07	Actual:	6	Predict:	3
+157	Sample Name:	HNSC-T382-8-TCGA-CR-7398-01A-11R-2016-07	Actual:	8	Predict:	6
+158	Sample Name:	KIRC-N11-0-TCGA-CZ-5455-11A-01R-1503-07	Actual:	0	Predict:	3
+159	Sample Name:	LUSC-T472-6-TCGA-22-1000-01A-01R-A32Z-07	Actual:	6	Predict:	3
+160	Sample Name:	HNSC-T154-8-TCGA-CN-6010-01A-11R-1686-07	Actual:	8	Predict:	6
+161	Sample Name:	HNSC-T171-8-TCGA-UF-A7JA-01A-12R-A34R-07	Actual:	8	Predict:	6
+162	Sample Name:	LUSC-T359-6-TCGA-96-8169-01A-11R-2296-07	Actual:	6	Predict:	3
+163	Sample Name:	LUSC-T451-6-TCGA-77-8130-01A-11R-2247-07	Actual:	6	Predict:	3
+164	Sample Name:	HNSC-T178-8-TCGA-KU-A66T-01A-11R-A30B-07	Actual:	8	Predict:	6
+165	Sample Name:	HNSC-T456-8-TCGA-DQ-7595-01A-11R-2232-07	Actual:	8	Predict:	6
+166	Sample Name:	LIHC-T355-7-TCGA-G3-A5SK-01A-11R-A27V-07	Actual:	7	Predict:	0
+167	Sample Name:	LUSC-T292-6-TCGA-46-6026-01A-11R-1820-07	Actual:	6	Predict:	3
+168	Sample Name:	STAD-T17-10-TCGA-BR-A4QL-01A-31R-A251-31	Actual:	10	Predict:	9
+169	Sample Name:	LUSC-T309-6-TCGA-85-7698-01A-11R-2125-07	Actual:	6	Predict:	3
+170	Sample Name:	LUSC-T193-6-TCGA-43-7658-01A-11R-2125-07	Actual:	6	Predict:	3
+171	Sample Name:	HNSC-T50-8-TCGA-CV-7440-01A-11R-2132-07	Actual:	8	Predict:	3
+172	Sample Name:	LUSC-T113-6-TCGA-96-A4JL-01A-11R-A24Z-07	Actual:	6	Predict:	3
+173	Sample Name:	HNSC-T293-8-TCGA-CV-6962-01A-11R-1915-07	Actual:	8	Predict:	6
+174	Sample Name:	KIRC-T473-2-TCGA-B0-5697-01A-11R-1541-07	Actual:	2	Predict:	11
+175	Sample Name:	HNSC-T415-8-TCGA-CN-6997-01A-11R-2016-07	Actual:	8	Predict:	6
+176	Sample Name:	HNSC-T443-8-TCGA-BB-7870-01A-11R-2232-07	Actual:	8	Predict:	6
+177	Sample Name:	LUSC-T401-6-TCGA-58-8386-01A-11R-2296-07	Actual:	6	Predict:	3
+178	Sample Name:	KIRP-T88-11-TCGA-BQ-5887-01A-11R-1965-07	Actual:	11	Predict:	2
+179	Sample Name:	HNSC-T325-8-TCGA-UF-A7JD-01A-11R-A34R-07	Actual:	8	Predict:	10
+180	Sample Name:	STAD-T315-10-TCGA-CG-4301-01A-01R-1157-13	Actual:	10	Predict:	3
+181	Sample Name:	HNSC-T485-8-TCGA-BA-7269-01A-11R-2016-07	Actual:	8	Predict:	6
+182	Sample Name:	LUSC-T7-6-TCGA-18-3409-01A-01R-0980-07	Actual:	6	Predict:	3
+183	Sample Name:	KIRP-T229-11-TCGA-BQ-7055-01A-11R-1965-07	Actual:	11	Predict:	2
+184	Sample Name:	KIRP-T2-11-TCGA-BQ-5879-01A-11R-1592-07	Actual:	11	Predict:	10
+185	Sample Name:	HNSC-T441-8-TCGA-BA-4074-01A-01R-1436-07	Actual:	8	Predict:	3
+186	Sample Name:	COAD-T131-9-TCGA-A6-A565-01A-31R-A28H-07	Actual:	9	Predict:	3
+187	Sample Name:	LUSC-T444-6-TCGA-56-8082-01A-11R-2247-07	Actual:	6	Predict:	3
+188	Sample Name:	KIRC-T137-2-TCGA-B8-4621-01A-01R-1503-07	Actual:	2	Predict:	11
+189	Sample Name:	LUSC-T47-6-TCGA-66-2754-01A-01R-0980-07	Actual:	6	Predict:	3
+190	Sample Name:	STAD-T197-10-TCGA-B7-A5TJ-01A-11R-A31P-31	Actual:	10	Predict:	9
+191	Sample Name:	KIRP-T257-11-TCGA-F9-A8NY-01A-11R-A36F-07	Actual:	11	Predict:	2
+192	Sample Name:	BRCA-T478-1-TCGA-AC-A2QH-01A-11R-A18M-07	Actual:	1	Predict:	3
+193	Sample Name:	KIRC-T480-2-TCGA-AS-3777-01A-01R-0864-07	Actual:	2	Predict:	7
+194	Sample Name:	PRAD-N7-0-TCGA-CH-5769-11A-01R-1580-07	Actual:	0	Predict:	5
+195	Sample Name:	LUSC-T272-6-TCGA-98-A53D-01A-32R-A262-07	Actual:	6	Predict:	3
+196	Sample Name:	LUSC-T499-6-TCGA-O2-A5IB-01A-11R-A27Q-07	Actual:	6	Predict:	3
+197	Sample Name:	LUSC-T97-6-TCGA-LA-A7SW-01A-11R-A405-07	Actual:	6	Predict:	8
+198	Sample Name:	BRCA-T638-1-TCGA-A7-A6VY-01A-12R-A33J-07	Actual:	1	Predict:	3
+199	Sample Name:	COAD-T52-9-TCGA-AZ-4323-01A-21R-1839-07	Actual:	9	Predict:	3
+200	Sample Name:	LUSC-T204-6-TCGA-77-A5G1-01A-11R-A27Q-07	Actual:	6	Predict:	3
+201	Sample Name:	LUSC-T135-6-TCGA-85-8352-01A-31R-2326-07	Actual:	6	Predict:	1
+202	Sample Name:	STAD-T225-10-TCGA-R5-A7ZI-01A-11R-A354-31	Actual:	10	Predict:	3
+203	Sample Name:	BRCA-T130-1-TCGA-EW-A1P4-01A-21R-A144-07	Actual:	1	Predict:	3
+204	Sample Name:	LUSC-T166-6-TCGA-85-A50M-01A-21R-A262-07	Actual:	6	Predict:	3
+205	Sample Name:	HNSC-T45-8-TCGA-UF-A7JF-01A-11R-A34R-07	Actual:	8	Predict:	6
+206	Sample Name:	COAD-T119-9-TCGA-F4-6570-01A-11R-1774-07	Actual:	9	Predict:	10
+207	Sample Name:	LUSC-T382-6-TCGA-60-2704-01A-11R-2045-07	Actual:	6	Predict:	3
+208	Sample Name:	HNSC-T190-8-TCGA-CN-4735-01A-01R-1436-07	Actual:	8	Predict:	6
+209	Sample Name:	LUSC-T298-6-TCGA-33-6737-01A-11R-1820-07	Actual:	6	Predict:	3
+210	Sample Name:	LUAD-T111-3-TCGA-49-AAR9-01A-21R-A41B-07	Actual:	3	Predict:	1
+211	Sample Name:	STAD-T276-10-TCGA-BR-7717-01A-11R-2055-13	Actual:	10	Predict:	9
+212	Sample Name:	HNSC-T478-8-TCGA-CV-7407-01A-11R-2081-07	Actual:	8	Predict:	6
+213	Sample Name:	HNSC-T307-8-TCGA-CV-A461-01A-41R-A266-07	Actual:	8	Predict:	6
+214	Sample Name:	LUSC-T348-6-TCGA-22-4594-01A-01R-1201-07	Actual:	6	Predict:	3
+215	Sample Name:	HNSC-T363-8-TCGA-D6-A6EP-01A-11R-A31N-07	Actual:	8	Predict:	1
+216	Sample Name:	LUSC-T66-6-TCGA-66-2785-01A-01R-0851-07	Actual:	6	Predict:	3
+217	Sample Name:	STAD-T105-10-TCGA-D7-A6F0-01A-11R-A31P-31	Actual:	10	Predict:	3
+218	Sample Name:	HNSC-T86-8-TCGA-IQ-7631-01A-11R-2081-07	Actual:	8	Predict:	3
+219	Sample Name:	HNSC-T426-8-TCGA-CR-7399-01A-11R-2016-07	Actual:	8	Predict:	1
+220	Sample Name:	HNSC-T304-8-TCGA-CN-6012-01A-11R-1686-07	Actual:	8	Predict:	6
+221	Sample Name:	HNSC-T31-8-TCGA-CV-7409-01A-31R-2232-07	Actual:	8	Predict:	3
+222	Sample Name:	LUSC-T481-6-TCGA-56-7223-01A-11R-2045-07	Actual:	6	Predict:	3
+223	Sample Name:	BRCA-N48-0-TCGA-E2-A1LH-11A-22R-A14D-07	Actual:	0	Predict:	1
+224	Sample Name:	KIRP-T42-11-TCGA-4A-A93Y-01A-11R-A37K-07	Actual:	11	Predict:	2
+225	Sample Name:	BRCA-N50-0-TCGA-BH-A1FR-11B-42R-A13Q-07	Actual:	0	Predict:	2
+226	Sample Name:	KIRP-T261-11-TCGA-BQ-5894-01A-11R-1592-07	Actual:	11	Predict:	2
+227	Sample Name:	KIRC-T508-2-TCGA-AK-3447-01A-01R-1766-07	Actual:	2	Predict:	0
+228	Sample Name:	HNSC-T20-8-TCGA-P3-A6SW-01A-11R-A34R-07	Actual:	8	Predict:	6
+229	Sample Name:	STAD-T28-10-TCGA-BR-7715-01A-11R-2055-13	Actual:	10	Predict:	9
+230	Sample Name:	HNSC-T491-8-TCGA-QK-A6VC-01A-23R-A34R-07	Actual:	8	Predict:	1
+231	Sample Name:	KIRC-T494-2-TCGA-B0-5107-01A-01R-1420-07	Actual:	2	Predict:	11
+232	Sample Name:	HNSC-T418-8-TCGA-CR-6467-01A-11R-1873-07	Actual:	8	Predict:	10
+233	Sample Name:	STAD-T178-10-TCGA-CG-5716-01A-21R-1802-13	Actual:	10	Predict:	3
+234	Sample Name:	HNSC-T71-8-TCGA-BA-4075-01A-01R-1436-07	Actual:	8	Predict:	6
+235	Sample Name:	HNSC-T400-8-TCGA-UF-A7JO-01A-11R-A34R-07	Actual:	8	Predict:	6
+236	Sample Name:	LUSC-T338-6-TCGA-85-8582-01A-21R-2403-07	Actual:	6	Predict:	3
+237	Sample Name:	LUSC-T329-6-TCGA-56-8624-01A-11R-2403-07	Actual:	6	Predict:	3
+238	Sample Name:	KIRC-T97-2-TCGA-B2-4098-01A-02R-1325-07	Actual:	2	Predict:	11
+239	Sample Name:	COAD-T251-9-TCGA-AA-3489-01A-21R-1839-07	Actual:	9	Predict:	10
+240	Sample Name:	KIRC-T413-2-TCGA-B0-4696-01A-01R-1277-07	Actual:	2	Predict:	1
+241	Sample Name:	LIHC-T54-7-TCGA-BC-A10X-01A-11R-A131-07	Actual:	7	Predict:	0
+242	Sample Name:	STAD-T221-10-TCGA-RD-A7BT-01A-11R-A33Y-31	Actual:	10	Predict:	9
+243	Sample Name:	PRAD-T125-5-TCGA-G9-6367-01A-11R-1789-07	Actual:	5	Predict:	0
+244	Sample Name:	STAD-T360-10-TCGA-CG-5717-01A-11R-1602-13	Actual:	10	Predict:	3
+245	Sample Name:	HNSC-T193-8-TCGA-D6-6827-01A-11R-1915-07	Actual:	8	Predict:	1
+246	Sample Name:	KIRP-T25-11-TCGA-A4-7287-01A-11R-2139-07	Actual:	11	Predict:	6
+247	Sample Name:	KIRP-T10-11-TCGA-HE-7130-01A-11R-1965-07	Actual:	11	Predict:	1
+248	Sample Name:	BRCA-N16-0-TCGA-BH-A0DQ-11A-12R-A089-07	Actual:	0	Predict:	1
+249	Sample Name:	LUSC-T333-6-TCGA-68-A59I-01A-11R-A262-07	Actual:	6	Predict:	3
+250	Sample Name:	HNSC-T463-8-TCGA-BA-A6DG-01A-21R-A30B-07	Actual:	8	Predict:	3
+251	Sample Name:	HNSC-T80-8-TCGA-CV-7422-01A-21R-2081-07	Actual:	8	Predict:	6
+252	Sample Name:	KIRC-T109-2-TCGA-AK-3453-01A-02R-1277-07	Actual:	2	Predict:	0
+253	Sample Name:	BRCA-T762-1-TCGA-A7-A3J0-01A-11R-A213-07	Actual:	1	Predict:	3
+254	Sample Name:	LUAD-N32-0-TCGA-44-6147-11A-01R-1858-07	Actual:	0	Predict:	4
+255	Sample Name:	KIRC-N50-0-TCGA-B0-4700-11A-01R-1541-07	Actual:	0	Predict:	2
+256	Sample Name:	STAD-T202-10-TCGA-BR-4267-01A-01R-1131-13	Actual:	10	Predict:	3
+257	Sample Name:	LUSC-T341-6-TCGA-85-A513-01A-12R-A26W-07	Actual:	6	Predict:	3
+258	Sample Name:	HNSC-T165-8-TCGA-KU-A6H8-01A-21R-A34R-07	Actual:	8	Predict:	0
+259	Sample Name:	LUSC-T38-6-TCGA-22-5477-01A-01R-1635-07	Actual:	6	Predict:	3
+260	Sample Name:	THCA-T424-4-TCGA-BJ-A2N9-01A-11R-A18C-07	Actual:	4	Predict:	0
+261	Sample Name:	LUSC-T389-6-TCGA-63-A5MN-01A-22R-A27Q-07	Actual:	6	Predict:	3
+262	Sample Name:	LUSC-T178-6-TCGA-60-2710-01A-01R-0851-07	Actual:	6	Predict:	3
+263	Sample Name:	PRAD-T194-5-TCGA-H9-A6BX-01A-31R-A311-07	Actual:	5	Predict:	0
+264	Sample Name:	HNSC-T445-8-TCGA-BA-A6DA-01A-31R-A31N-07	Actual:	8	Predict:	6
+265	Sample Name:	HNSC-T438-8-TCGA-CX-A4AQ-01A-11R-A24Z-07	Actual:	8	Predict:	6
+266	Sample Name:	HNSC-T506-8-TCGA-D6-6823-01A-11R-1915-07	Actual:	8	Predict:	6
+267	Sample Name:	LUAD-T88-3-TCGA-44-5643-01A-01R-1628-07	Actual:	3	Predict:	6
+268	Sample Name:	LUSC-T367-6-TCGA-85-7950-01A-11R-2187-07	Actual:	6	Predict:	3
+269	Sample Name:	LUSC-T70-6-TCGA-22-5481-01A-31R-1949-07	Actual:	6	Predict:	1
+270	Sample Name:	KIRC-N6-0-TCGA-B0-5712-11A-01R-1672-07	Actual:	0	Predict:	2
+271	Sample Name:	HNSC-T60-8-TCGA-BB-8601-01A-11R-2403-07	Actual:	8	Predict:	6
+272	Sample Name:	HNSC-T439-8-TCGA-CV-6941-01A-11R-1915-07	Actual:	8	Predict:	6
+273	Sample Name:	HNSC-T164-8-TCGA-CN-6992-01A-11R-1915-07	Actual:	8	Predict:	6
+274	Sample Name:	KIRP-T242-11-TCGA-AL-3473-01A-01R-1193-07	Actual:	11	Predict:	2
+275	Sample Name:	HNSC-T123-8-TCGA-UF-A71A-01A-22R-A34R-07	Actual:	8	Predict:	6
+276	Sample Name:	LUSC-T461-6-TCGA-39-5040-01A-21R-2125-07	Actual:	6	Predict:	10
+277	Sample Name:	STAD-T156-10-TCGA-IN-A7NU-01A-22R-A354-31	Actual:	10	Predict:	3
+278	Sample Name:	LIHC-T206-7-TCGA-BC-A110-01A-11R-A131-07	Actual:	7	Predict:	0
+279	Sample Name:	STAD-T412-10-TCGA-BR-4279-01A-01R-1131-13	Actual:	10	Predict:	3
+280	Sample Name:	BRCA-T785-1-TCGA-AO-A0JC-01A-11R-A056-07	Actual:	1	Predict:	3
+281	Sample Name:	STAD-T40-10-TCGA-BR-7707-01A-11R-2055-13	Actual:	10	Predict:	9
+282	Sample Name:	LUSC-T2-6-TCGA-77-7335-01A-11R-2045-07	Actual:	6	Predict:	2
+283	Sample Name:	BRCA-N6-0-TCGA-E9-A1N4-11A-33R-A14M-07	Actual:	0	Predict:	1
+284	Sample Name:	LUSC-T1-6-TCGA-98-A53B-01A-11R-A262-07	Actual:	6	Predict:	3
+285	Sample Name:	KIRP-T153-11-TCGA-BQ-5893-01A-11R-1592-07	Actual:	11	Predict:	3
+286	Sample Name:	HNSC-T77-8-TCGA-BA-A8YP-01A-11R-A39I-07	Actual:	8	Predict:	6
+287	Sample Name:	HNSC-T513-8-TCGA-CQ-A4CI-01A-11R-A266-07	Actual:	8	Predict:	6
+288	Sample Name:	LUSC-T14-6-TCGA-70-6722-01A-11R-1820-07	Actual:	6	Predict:	3
+289	Sample Name:	LUSC-T422-6-TCGA-77-7138-01A-41R-2045-07	Actual:	6	Predict:	8
+290	Sample Name:	KIRC-T498-2-TCGA-A3-3313-01A-02R-1325-07	Actual:	2	Predict:	11
+291	Sample Name:	HNSC-T100-8-TCGA-BB-4223-01A-01R-1436-07	Actual:	8	Predict:	10
+292	Sample Name:	LUSC-T129-6-TCGA-98-8020-01A-11R-2247-07	Actual:	6	Predict:	3
+293	Sample Name:	HNSC-T196-8-TCGA-CV-7437-01A-21R-2132-07	Actual:	8	Predict:	6
+294	Sample Name:	LUSC-T293-6-TCGA-22-1002-01A-01R-0692-07	Actual:	6	Predict:	3
+295	Sample Name:	LUSC-T347-6-TCGA-NC-A5HT-01A-11R-A26W-07	Actual:	6	Predict:	3
+296	Sample Name:	KIRC-N43-0-TCGA-B0-5709-11A-01R-1541-07	Actual:	0	Predict:	2
+297	Sample Name:	HNSC-N22-0-TCGA-CV-7425-11A-01R-2081-07	Actual:	0	Predict:	8
+298	Sample Name:	LUSC-T478-6-TCGA-63-A5MT-01A-21R-A26W-07	Actual:	6	Predict:	3
+299	Sample Name:	STAD-T414-10-TCGA-VQ-A91E-01A-31R-A414-31	Actual:	10	Predict:	3
+300	Sample Name:	HNSC-T41-8-TCGA-CN-5359-01A-01R-1436-07	Actual:	8	Predict:	6
+301	Sample Name:	LUSC-T283-6-TCGA-60-2703-01A-11R-2045-07	Actual:	6	Predict:	3
+302	Sample Name:	LUSC-T258-6-TCGA-43-6773-01A-41R-1949-07	Actual:	6	Predict:	3
+303	Sample Name:	LUSC-T210-6-TCGA-66-2793-01A-01R-1201-07	Actual:	6	Predict:	3
+304	Sample Name:	BRCA-T49-1-TCGA-C8-A12V-01A-11R-A115-07	Actual:	1	Predict:	3
+305	Sample Name:	LUSC-T495-6-TCGA-33-4589-01A-01R-1443-07	Actual:	6	Predict:	3
+306	Sample Name:	HNSC-T127-8-TCGA-CQ-A4CG-01A-11R-A266-07	Actual:	8	Predict:	6
+307	Sample Name:	HNSC-T470-8-TCGA-CV-5430-01A-02R-1686-07	Actual:	8	Predict:	1
+308	Sample Name:	HNSC-T260-8-TCGA-DQ-7588-01A-11R-2081-07	Actual:	8	Predict:	6
+309	Sample Name:	HNSC-T342-8-TCGA-CV-6937-01A-11R-2016-07	Actual:	8	Predict:	6
+310	Sample Name:	STAD-T344-10-TCGA-BR-A4J9-01A-12R-A251-31	Actual:	10	Predict:	2
+311	Sample Name:	HNSC-T334-8-TCGA-UF-A7JV-01A-11R-A34R-07	Actual:	8	Predict:	3
+312	Sample Name:	HNSC-T157-8-TCGA-CR-7374-01A-11R-2016-07	Actual:	8	Predict:	6
+313	Sample Name:	LUSC-T487-6-TCGA-O2-A52N-01A-11R-A26W-07	Actual:	6	Predict:	3
+314	Sample Name:	HNSC-T170-8-TCGA-CV-6948-01A-11R-1915-07	Actual:	8	Predict:	6
+315	Sample Name:	KIRC-T390-2-TCGA-CW-5591-01A-01R-1541-07	Actual:	2	Predict:	0
+316	Sample Name:	LUSC-T385-6-TCGA-O2-A52Q-01A-11R-A26W-07	Actual:	6	Predict:	3
+317	Sample Name:	KIRP-T106-11-TCGA-P4-A5EA-01A-11R-A28H-07	Actual:	11	Predict:	2
+318	Sample Name:	LUSC-T282-6-TCGA-21-5783-01A-41R-2187-07	Actual:	6	Predict:	3
+319	Sample Name:	HNSC-T18-8-TCGA-CR-6481-01A-11R-1873-07	Actual:	8	Predict:	6
+320	Sample Name:	LUSC-T403-6-TCGA-63-A5MB-01A-11R-A26W-07	Actual:	6	Predict:	3
+321	Sample Name:	HNSC-T213-8-TCGA-CV-A45Y-01A-11R-A24Z-07	Actual:	8	Predict:	6
+322	Sample Name:	LIHC-T249-7-TCGA-WX-AA46-01A-11R-A39D-07	Actual:	7	Predict:	0
+323	Sample Name:	KIRC-T375-2-TCGA-B0-5707-01A-11R-1541-07	Actual:	2	Predict:	11
+324	Sample Name:	LUSC-T269-6-TCGA-37-4129-01A-01R-1100-07	Actual:	6	Predict:	2
+325	Sample Name:	KIRP-T243-11-TCGA-5P-A9JV-01A-12R-A42S-07	Actual:	11	Predict:	2
+326	Sample Name:	LUSC-T25-6-TCGA-43-6647-01A-11R-1820-07	Actual:	6	Predict:	3
+327	Sample Name:	HNSC-T505-8-TCGA-CV-7177-01A-11R-2016-07	Actual:	8	Predict:	6
+328	Sample Name:	STAD-T76-10-TCGA-VQ-A8DV-01A-12R-A36D-31	Actual:	10	Predict:	7
+329	Sample Name:	PRAD-T486-5-TCGA-EJ-AB20-01A-12R-A41O-07	Actual:	5	Predict:	0
+330	Sample Name:	LUSC-T101-6-TCGA-66-2753-01A-01R-0980-07	Actual:	6	Predict:	3
+331	Sample Name:	HNSC-T75-8-TCGA-BA-4077-01B-01R-1436-07	Actual:	8	Predict:	3
+332	Sample Name:	LUSC-T312-6-TCGA-56-8305-01A-11R-2296-07	Actual:	6	Predict:	3
+333	Sample Name:	STAD-T68-10-TCGA-BR-6566-01A-11R-1802-13	Actual:	10	Predict:	9
+334	Sample Name:	HNSC-T212-8-TCGA-BA-A4II-01A-11R-A266-07	Actual:	8	Predict:	6
+335	Sample Name:	STAD-T357-10-TCGA-BR-8592-01A-11R-2402-13	Actual:	10	Predict:	0
+336	Sample Name:	LUSC-T24-6-TCGA-43-6771-01A-11R-1820-07	Actual:	6	Predict:	3
+337	Sample Name:	STAD-T188-10-TCGA-VQ-AA6B-01A-11R-A414-31	Actual:	10	Predict:	9
+338	Sample Name:	STAD-T170-10-TCGA-D7-A6EX-01A-11R-A31P-31	Actual:	10	Predict:	3
+339	Sample Name:	HNSC-N5-0-TCGA-H7-A6C5-11A-11R-A30B-07	Actual:	0	Predict:	3
+340	Sample Name:	BRCA-T898-1-TCGA-E9-A5FL-01A-11R-A27Q-07	Actual:	1	Predict:	2
+341	Sample Name:	KIRC-T291-2-TCGA-T7-A92I-01A-11R-A37O-07	Actual:	2	Predict:	11
+342	Sample Name:	LUSC-T196-6-TCGA-22-5478-01A-01R-1635-07	Actual:	6	Predict:	3
+343	Sample Name:	LUSC-T5-6-TCGA-98-A53H-01A-12R-A262-07	Actual:	6	Predict:	3
+344	Sample Name:	HNSC-T355-8-TCGA-QK-A6IF-01A-11R-A31N-07	Actual:	8	Predict:	1
+345	Sample Name:	HNSC-T502-8-TCGA-HD-A6HZ-01A-12R-A31N-07	Actual:	8	Predict:	6
+346	Sample Name:	KIRP-T70-11-TCGA-G7-6789-01A-11R-1965-07	Actual:	11	Predict:	3
+347	Sample Name:	THCA-T14-4-TCGA-E8-A416-01A-11R-A23N-07	Actual:	4	Predict:	0
+348	Sample Name:	HNSC-T323-8-TCGA-CN-A497-01A-11R-A24H-07	Actual:	8	Predict:	6
+349	Sample Name:	LUSC-T398-6-TCGA-34-8454-01A-11R-2326-07	Actual:	6	Predict:	3
+350	Sample Name:	KIRP-T166-11-TCGA-GL-7966-01A-11R-2204-07	Actual:	11	Predict:	3
+351	Sample Name:	LUSC-T134-6-TCGA-85-8277-01A-11R-2296-07	Actual:	6	Predict:	3
+352	Sample Name:	LIHC-T147-7-TCGA-ED-A627-01A-12R-A311-07	Actual:	7	Predict:	0
+353	Sample Name:	LUSC-T310-6-TCGA-92-8064-01A-11R-2247-07	Actual:	6	Predict:	3
+354	Sample Name:	LUSC-T65-6-TCGA-66-2771-01A-01R-0980-07	Actual:	6	Predict:	3
+355	Sample Name:	LUSC-T308-6-TCGA-77-8009-01A-11R-2187-07	Actual:	6	Predict:	3
+356	Sample Name:	HNSC-T39-8-TCGA-CQ-7072-01A-21R-A30B-07	Actual:	8	Predict:	6
+357	Sample Name:	HNSC-T132-8-TCGA-P3-A6T6-01A-11R-A34R-07	Actual:	8	Predict:	6
+358	Sample Name:	LUSC-T173-6-TCGA-22-4609-01A-21R-2125-07	Actual:	6	Predict:	3
+359	Sample Name:	LUSC-T256-6-TCGA-90-7964-01A-21R-2187-07	Actual:	6	Predict:	3
+360	Sample Name:	HNSC-T129-8-TCGA-P3-A6T0-01A-12R-A34R-07	Actual:	8	Predict:	6
+361	Sample Name:	HNSC-T205-8-TCGA-CV-6960-01A-41R-2016-07	Actual:	8	Predict:	3
+362	Sample Name:	STAD-N25-0-TCGA-IN-8663-11A-01R-2402-13	Actual:	0	Predict:	10
+363	Sample Name:	STAD-T212-10-TCGA-BR-7704-01A-11R-2055-13	Actual:	10	Predict:	3
+364	Sample Name:	KIRP-T60-11-TCGA-A4-7915-01A-11R-2204-07	Actual:	11	Predict:	3
+365	Sample Name:	KIRC-N49-0-TCGA-B0-5691-11A-01R-1541-07	Actual:	0	Predict:	2
+366	Sample Name:	STAD-T222-10-TCGA-CG-4460-01A-01R-1157-13	Actual:	10	Predict:	3
+367	Sample Name:	HNSC-T469-8-TCGA-QK-A8Z8-01A-11R-A39I-07	Actual:	8	Predict:	6
+368	Sample Name:	HNSC-T510-8-TCGA-D6-A6EQ-01A-11R-A31N-07	Actual:	8	Predict:	6
+369	Sample Name:	LUSC-T378-6-TCGA-33-4533-01A-01R-1201-07	Actual:	6	Predict:	3
+370	Sample Name:	STAD-T86-10-TCGA-BR-6709-01A-11R-1884-13	Actual:	10	Predict:	3
+371	Sample Name:	HNSC-T350-8-TCGA-CV-A460-01A-21R-A24Z-07	Actual:	8	Predict:	1
+372	Sample Name:	HNSC-T145-8-TCGA-QK-A8Z7-01A-11R-A39I-07	Actual:	8	Predict:	6
+373	Sample Name:	LUSC-T85-6-TCGA-43-2576-01A-01R-A32Z-07	Actual:	6	Predict:	3
+374	Sample Name:	HNSC-T242-8-TCGA-CV-7421-01A-11R-2081-07	Actual:	8	Predict:	6
+375	Sample Name:	HNSC-T185-8-TCGA-QK-A64Z-01A-11R-A30B-07	Actual:	8	Predict:	6
+376	Sample Name:	HNSC-T488-8-TCGA-CQ-A4CB-01A-11R-A24Z-07	Actual:	8	Predict:	3
+377	Sample Name:	LUSC-T162-6-TCGA-85-6175-01A-11R-1820-07	Actual:	6	Predict:	3
+378	Sample Name:	STAD-T307-10-TCGA-BR-6453-01A-11R-1802-13	Actual:	10	Predict:	0
+379	Sample Name:	THCA-T268-4-TCGA-BJ-A28W-01A-11R-A32Y-07	Actual:	4	Predict:	0
+380	Sample Name:	HNSC-T272-8-TCGA-T2-A6X0-01A-11R-A34R-07	Actual:	8	Predict:	6
+381	Sample Name:	LUSC-T315-6-TCGA-22-1016-01A-01R-0692-07	Actual:	6	Predict:	3
+382	Sample Name:	LUSC-T21-6-TCGA-98-A53C-01A-11R-A262-07	Actual:	6	Predict:	3
+383	Sample Name:	HNSC-T424-8-TCGA-QK-A6VB-01A-12R-A34R-07	Actual:	8	Predict:	6
+384	Sample Name:	LUSC-T280-6-TCGA-37-4130-01A-01R-1100-07	Actual:	6	Predict:	7
+385	Sample Name:	BRCA-N56-0-TCGA-E2-A153-11A-31R-A12D-07	Actual:	0	Predict:	1
+386	Sample Name:	COAD-T11-9-TCGA-AZ-6601-01A-11R-1774-07	Actual:	9	Predict:	10
+387	Sample Name:	LUSC-T253-6-TCGA-90-7767-01A-11R-2125-07	Actual:	6	Predict:	1
+388	Sample Name:	LUSC-T242-6-TCGA-37-4141-01A-02R-1100-07	Actual:	6	Predict:	3
+389	Sample Name:	KIRC-T268-2-TCGA-CW-6087-01A-11R-1672-07	Actual:	2	Predict:	11
+390	Sample Name:	HNSC-T303-8-TCGA-CV-A45W-01A-11R-A24Z-07	Actual:	8	Predict:	6
+391	Sample Name:	LUSC-T244-6-TCGA-37-4135-01A-01R-1100-07	Actual:	6	Predict:	3
+392	Sample Name:	PRAD-N32-0-TCGA-HC-7742-11A-01R-2118-07	Actual:	0	Predict:	5
+393	Sample Name:	HNSC-T454-8-TCGA-CR-6470-01A-11R-1873-07	Actual:	8	Predict:	10
+394	Sample Name:	LUSC-T71-6-TCGA-43-2581-01A-01R-0851-07	Actual:	6	Predict:	3
+395	Sample Name:	HNSC-T368-8-TCGA-CQ-A4CD-01A-21R-A24Z-07	Actual:	8	Predict:	6
+396	Sample Name:	HNSC-T250-8-TCGA-CV-7418-01A-11R-2081-07	Actual:	8	Predict:	6
+397	Sample Name:	LUSC-T241-6-TCGA-60-2707-01A-01R-0851-07	Actual:	6	Predict:	3
+398	Sample Name:	LUSC-T169-6-TCGA-63-A5ML-01A-31R-A27Q-07	Actual:	6	Predict:	3
+399	Sample Name:	HNSC-T442-8-TCGA-P3-A5Q6-01A-11R-A28V-07	Actual:	8	Predict:	6
+400	Sample Name:	LUSC-T250-6-TCGA-21-1078-01A-01R-0692-07	Actual:	6	Predict:	11
+401	Sample Name:	LUSC-T191-6-TCGA-22-4596-01A-01R-1201-07	Actual:	6	Predict:	3
+402	Sample Name:	BRCA-T897-1-TCGA-WT-AB44-01A-11R-A41B-07	Actual:	1	Predict:	5
+403	Sample Name:	LUSC-T436-6-TCGA-46-3769-01A-01R-0980-07	Actual:	6	Predict:	3
+404	Sample Name:	STAD-T365-10-TCGA-BR-A452-01A-91R-A251-31	Actual:	10	Predict:	3
+405	Sample Name:	KIRC-T302-2-TCGA-B0-4698-01A-01R-1503-07	Actual:	2	Predict:	3
+406	Sample Name:	STAD-T83-10-TCGA-D7-6525-01A-11R-1802-13	Actual:	10	Predict:	3
+407	Sample Name:	LUSC-T187-6-TCGA-77-8144-01A-11R-2247-07	Actual:	6	Predict:	8
+408	Sample Name:	HNSC-T259-8-TCGA-F7-A50I-01A-11R-A28V-07	Actual:	8	Predict:	3
+409	Sample Name:	LUSC-T243-6-TCGA-52-7812-01A-11R-2125-07	Actual:	6	Predict:	3
+410	Sample Name:	HNSC-T220-8-TCGA-IQ-A6SG-01A-12R-A34R-07	Actual:	8	Predict:	6
+411	Sample Name:	HNSC-T378-8-TCGA-CR-6482-01A-11R-1873-07	Actual:	8	Predict:	2
+412	Sample Name:	LUSC-T34-6-TCGA-22-5483-01A-01R-1820-07	Actual:	6	Predict:	3
+413	Sample Name:	HNSC-T233-8-TCGA-CV-5441-01A-01R-1514-07	Actual:	8	Predict:	3
+414	Sample Name:	LUSC-T176-6-TCGA-90-A4EE-01A-11R-A24Z-07	Actual:	6	Predict:	3
+415	Sample Name:	HNSC-T99-8-TCGA-CR-6472-01A-11R-1873-07	Actual:	8	Predict:	6
+416	Sample Name:	LUSC-T125-6-TCGA-37-3792-01A-01R-0980-07	Actual:	6	Predict:	3
+417	Sample Name:	LUSC-T121-6-TCGA-56-8622-01A-11R-2403-07	Actual:	6	Predict:	3
+418	Sample Name:	HNSC-T308-8-TCGA-CV-7100-01A-11R-2016-07	Actual:	8	Predict:	6
+419	Sample Name:	HNSC-T465-8-TCGA-CN-A6V1-01A-12R-A34R-07	Actual:	8	Predict:	1
+420	Sample Name:	LUSC-T82-6-TCGA-63-6202-01A-11R-1820-07	Actual:	6	Predict:	3
+421	Sample Name:	LUSC-T299-6-TCGA-77-8146-01A-11R-2247-07	Actual:	6	Predict:	3
+422	Sample Name:	PRAD-N45-0-TCGA-CH-5768-11A-01R-1580-07	Actual:	0	Predict:	5
+423	Sample Name:	HNSC-T139-8-TCGA-CR-7364-01A-11R-2016-07	Actual:	8	Predict:	6
+424	Sample Name:	HNSC-T119-8-TCGA-CR-6487-01A-11R-1873-07	Actual:	8	Predict:	1
+425	Sample Name:	HNSC-T380-8-TCGA-CR-7385-01A-11R-2016-07	Actual:	8	Predict:	4
+426	Sample Name:	LUSC-T20-6-TCGA-85-6560-01A-11R-1820-07	Actual:	6	Predict:	3
+427	Sample Name:	BRCA-T877-1-TCGA-AO-A1KO-01A-31R-A13Q-07	Actual:	1	Predict:	0
+428	Sample Name:	HNSC-T496-8-TCGA-BB-7866-01A-11R-2232-07	Actual:	8	Predict:	10
+429	Sample Name:	LIHC-T107-7-TCGA-CC-A3M9-01A-11R-A213-07	Actual:	7	Predict:	3
+430	Sample Name:	LUSC-T31-6-TCGA-68-A59J-01A-21R-A26W-07	Actual:	6	Predict:	3
+431	Sample Name:	KIRP-T165-11-TCGA-2Z-A9JK-01A-11R-A42S-07	Actual:	11	Predict:	2
+432	Sample Name:	BRCA-N75-0-TCGA-AC-A2FF-11A-13R-A17B-07	Actual:	0	Predict:	1
+433	Sample Name:	HNSC-T128-8-TCGA-CR-6480-01A-11R-1873-07	Actual:	8	Predict:	10
+434	Sample Name:	STAD-T51-10-TCGA-BR-A4J6-01A-11R-A251-31	Actual:	10	Predict:	3
+435	Sample Name:	PRAD-T415-5-TCGA-G9-6347-01A-11R-A31N-07	Actual:	5	Predict:	7
+436	Sample Name:	HNSC-T341-8-TCGA-CN-5374-01A-01R-1436-07	Actual:	8	Predict:	6
+437	Sample Name:	LUSC-T369-6-TCGA-92-8063-01A-11R-2247-07	Actual:	6	Predict:	3
+438	Sample Name:	STAD-T409-10-TCGA-CG-5725-01A-11R-1602-13	Actual:	10	Predict:	3
+439	Sample Name:	HNSC-T19-8-TCGA-D6-A6ES-01A-12R-A31N-07	Actual:	8	Predict:	6
+440	Sample Name:	LUSC-T350-6-TCGA-63-A5MG-01A-12R-A27Q-07	Actual:	6	Predict:	3
+441	Sample Name:	KIRP-N8-0-TCGA-DZ-6132-11A-01R-1965-07	Actual:	0	Predict:	2
+442	Sample Name:	HNSC-T106-8-TCGA-CV-7242-01A-11R-2016-07	Actual:	8	Predict:	3
+443	Sample Name:	STAD-T100-10-TCGA-BR-8680-01A-11R-2402-13	Actual:	10	Predict:	9
+444	Sample Name:	COAD-T110-9-TCGA-F4-6703-01A-11R-1839-07	Actual:	9	Predict:	2
+445	Sample Name:	BRCA-N33-0-TCGA-E9-A1N5-11A-41R-A14D-07	Actual:	0	Predict:	1
+446	Sample Name:	HNSC-T134-8-TCGA-BB-8596-01A-11R-2403-07	Actual:	8	Predict:	3
+447	Sample Name:	HNSC-T249-8-TCGA-UF-A7J9-01A-12R-A34R-07	Actual:	8	Predict:	6
+448	Sample Name:	HNSC-T437-8-TCGA-MZ-A7D7-01A-21R-A34R-07	Actual:	8	Predict:	6
+449	Sample Name:	BRCA-T287-1-TCGA-A1-A0SO-01A-22R-A084-07	Actual:	1	Predict:	3
+450	Sample Name:	LUSC-T221-6-TCGA-66-2800-01A-01R-1201-07	Actual:	6	Predict:	3
+451	Sample Name:	LUSC-T6-6-TCGA-77-8150-01A-11R-2247-07	Actual:	6	Predict:	3
+452	Sample Name:	LUSC-T108-6-TCGA-60-2697-01A-11R-2125-07	Actual:	6	Predict:	3
+453	Sample Name:	LUSC-T75-6-TCGA-85-7696-01A-11R-2125-07	Actual:	6	Predict:	3
+454	Sample Name:	HNSC-T47-8-TCGA-CV-A45U-01A-12R-A24H-07	Actual:	8	Predict:	6
+455	Sample Name:	HNSC-T12-8-TCGA-CV-5432-01A-02R-1686-07	Actual:	8	Predict:	6
+456	Sample Name:	LUSC-T277-6-TCGA-43-5668-01A-01R-1635-07	Actual:	6	Predict:	3
+457	Sample Name:	LUSC-T263-6-TCGA-56-5898-01A-11R-1635-07	Actual:	6	Predict:	3
+458	Sample Name:	LUSC-T295-6-TCGA-85-8052-01A-11R-2247-07	Actual:	6	Predict:	3
+459	Sample Name:	LUSC-T249-6-TCGA-94-7557-01A-11R-2125-07	Actual:	6	Predict:	3
+460	Sample Name:	HNSC-T84-8-TCGA-CV-7261-01A-11R-2016-07	Actual:	8	Predict:	6
+461	Sample Name:	HNSC-T158-8-TCGA-CR-6473-01A-11R-1873-07	Actual:	8	Predict:	3
+462	Sample Name:	LUSC-T439-6-TCGA-77-8007-01A-11R-2187-07	Actual:	6	Predict:	3
+463	Sample Name:	COAD-T256-9-TCGA-CM-5348-01A-21R-1723-07	Actual:	9	Predict:	10
+464	Sample Name:	LUSC-T353-6-TCGA-85-8584-01A-11R-2403-07	Actual:	6	Predict:	3
+465	Sample Name:	STAD-T271-10-TCGA-D7-6519-01A-11R-1802-13	Actual:	10	Predict:	3
+466	Sample Name:	LUAD-N24-0-TCGA-91-6829-11A-01R-1858-07	Actual:	0	Predict:	3
+467	Sample Name:	HNSC-T122-8-TCGA-CR-5248-01A-01R-2016-07	Actual:	8	Predict:	6
+468	Sample Name:	PRAD-N10-0-TCGA-EJ-7115-11A-01R-2118-07	Actual:	0	Predict:	5
+469	Sample Name:	HNSC-T277-8-TCGA-MZ-A6I9-01A-11R-A31N-07	Actual:	8	Predict:	6
+470	Sample Name:	STAD-T213-10-TCGA-CG-4449-01A-01R-1157-13	Actual:	10	Predict:	3
+471	Sample Name:	THCA-N35-0-TCGA-EL-A3T2-11A-11R-A22L-07	Actual:	0	Predict:	4
+472	Sample Name:	STAD-T32-10-TCGA-VQ-A8P3-01A-11R-A36D-31	Actual:	10	Predict:	9
+473	Sample Name:	HNSC-T458-8-TCGA-CV-5431-01A-01R-1514-07	Actual:	8	Predict:	6
+474	Sample Name:	HNSC-T5-8-TCGA-UP-A6WW-01A-12R-A34R-07	Actual:	8	Predict:	6
+475	Sample Name:	KIRC-T121-2-TCGA-B0-5098-01A-01R-1420-07	Actual:	2	Predict:	3
+476	Sample Name:	HNSC-T319-8-TCGA-BB-7861-01A-11R-2232-07	Actual:	8	Predict:	3
+477	Sample Name:	KIRC-N2-0-TCGA-B0-5701-11A-01R-1541-07	Actual:	0	Predict:	2
+478	Sample Name:	KIRC-T486-2-TCGA-AK-3456-01A-02R-1325-07	Actual:	2	Predict:	11
+479	Sample Name:	HNSC-T109-8-TCGA-TN-A7HL-01A-11R-A34R-07	Actual:	8	Predict:	6
+480	Sample Name:	LUSC-T236-6-TCGA-92-8065-01A-11R-2247-07	Actual:	6	Predict:	8
+481	Sample Name:	LUSC-T500-6-TCGA-NK-A5D1-01A-11R-A26W-07	Actual:	6	Predict:	3
+482	Sample Name:	LUSC-T141-6-TCGA-L3-A4E7-01A-11R-A24Z-07	Actual:	6	Predict:	3
+483	Sample Name:	LUSC-N16-0-TCGA-56-8623-11A-01R-A28V-07	Actual:	0	Predict:	6
+484	Sample Name:	LUSC-T322-6-TCGA-56-8083-01A-11R-2247-07	Actual:	6	Predict:	3
+485	Sample Name:	STAD-T82-10-TCGA-CG-4466-01A-01R-1157-13	Actual:	10	Predict:	9
+486	Sample Name:	LUSC-T247-6-TCGA-22-5480-01A-01R-1635-07	Actual:	6	Predict:	3
+487	Sample Name:	STAD-T91-10-TCGA-VQ-A94T-01A-11R-A414-31	Actual:	10	Predict:	3
+488	Sample Name:	LUSC-T238-6-TCGA-98-8022-01A-11R-2247-07	Actual:	6	Predict:	3
+489	Sample Name:	HNSC-T288-8-TCGA-HD-8314-01A-11R-2403-07	Actual:	8	Predict:	0
+490	Sample Name:	HNSC-T182-8-TCGA-CQ-5332-01A-01R-1686-07	Actual:	8	Predict:	6
+491	Sample Name:	HNSC-T385-8-TCGA-BA-A6D8-01A-31R-A31N-07	Actual:	8	Predict:	6
+492	Sample Name:	HNSC-T295-8-TCGA-CV-7101-01A-11R-2016-07	Actual:	8	Predict:	6
+493	Sample Name:	BRCA-T953-1-TCGA-AO-A128-01A-11R-A10J-07	Actual:	1	Predict:	3
+494	Sample Name:	LUSC-T211-6-TCGA-63-7022-01A-11R-1949-07	Actual:	6	Predict:	3
+495	Sample Name:	HNSC-T53-8-TCGA-CV-7424-01A-11R-2081-07	Actual:	8	Predict:	6
+496	Sample Name:	KIRC-T309-2-TCGA-B8-A54E-01A-11R-A266-07	Actual:	2	Predict:	7
+497	Sample Name:	KIRP-T53-11-TCGA-UZ-A9PN-01A-11R-A38C-07	Actual:	11	Predict:	2
+498	Sample Name:	HNSC-T386-8-TCGA-CV-7254-01A-11R-2016-07	Actual:	8	Predict:	6
+499	Sample Name:	PRAD-N5-0-TCGA-J4-A83J-11A-11R-A36G-07	Actual:	0	Predict:	5
+500	Sample Name:	BRCA-T256-1-TCGA-AR-A0U4-01A-11R-A109-07	Actual:	1	Predict:	3
+501	Sample Name:	LUSC-T159-6-TCGA-56-8626-01A-11R-2403-07	Actual:	6	Predict:	3
+502	Sample Name:	PRAD-N15-0-TCGA-G9-6351-11A-01R-1965-07	Actual:	0	Predict:	5
+503	Sample Name:	LUSC-T323-6-TCGA-22-5474-01A-01R-1635-07	Actual:	6	Predict:	3
+504	Sample Name:	HNSC-T89-8-TCGA-CV-5435-01A-01R-1686-07	Actual:	8	Predict:	6
+505	Sample Name:	KIRP-T47-11-TCGA-G7-6793-01A-11R-1965-07	Actual:	11	Predict:	1
+506	Sample Name:	KIRC-T40-2-TCGA-A3-3363-01A-01R-0864-07	Actual:	2	Predict:	11
+507	Sample Name:	HNSC-T427-8-TCGA-DQ-7589-01A-11R-2232-07	Actual:	8	Predict:	6
+508	Sample Name:	LUSC-T262-6-TCGA-37-5819-01A-01R-1635-07	Actual:	6	Predict:	3
+509	Sample Name:	KIRC-N71-0-TCGA-CW-5584-11A-01R-1541-07	Actual:	0	Predict:	2
+
+
+Confusion Matrix:
+Predicted  Normal  BRCA  KIRC  LUAD  THCA  PRAD  LUSC  LIHC  HNSC  COAD  STAD  KIRP   All
+Actual                                                                                   
+Normal        257     9    11     9     2     9     1     0     2     0     1     0   301
+BRCA            1   906     5    11     0     1     0     0     0     0     0     0   924
+KIRC            3     1   401     3     0     2     0     2     0     0     0    13   425
+LUAD            1     1     0   420     1     0     1     1     0     0     0     0   425
+THCA            5     0     0     0   410     0     0     0     0     0     0     0   415
+PRAD            4     0     0     0     0   414     0     1     0     0     0     0   419
+LUSC            0     4     2   146     0     0   265     1     4     0     1     1   424
+LIHC            6     0     2     1     0     0     0   287     0     0     0     0   296
+HNSC            2    13     1    31     1     0    99     0   301     0     6     0   454
+COAD            0     0     2     2     0     0     0     0     0   214     4     0   222
+STAD            7     0     2    29     0     0     0     1     1    12   309     0   361
+KIRP            0     2    16     6     0     0     1     0     0     0     2   215   242
+All           286   936   442   658   414   426   367   293   308   226   323   229  4908
+
+Accuracy: 0.896
+
+Precision Macro: 0.908
+
+Precision Micro: 0.896
+
+Recall Macro: 0.892
+
+Recall Micro: 0.896
+
+F1 Score Macro: 0.894
+
+F1 Score Micro: 0.896
+
+MCC: 0.887
+
+ROC AUC Score: 0.990
+
+Log Loss: 0.495
+
+Average Precision Macro: 0.947
+
+Average Precision Micro: 0.946
+
+Report: 
+              precision    recall  f1-score   support
+
+           0       0.90      0.85      0.88       301
+           1       0.97      0.98      0.97       924
+           2       0.91      0.94      0.93       425
+           3       0.64      0.99      0.78       425
+           4       0.99      0.99      0.99       415
+           5       0.97      0.99      0.98       419
+           6       0.72      0.62      0.67       424
+           7       0.98      0.97      0.97       296
+           8       0.98      0.66      0.79       454
+           9       0.95      0.96      0.96       222
+          10       0.96      0.86      0.90       361
+          11       0.94      0.89      0.91       242
+
+    accuracy                           0.90      4908
+   macro avg       0.91      0.89      0.89      4908
+weighted avg       0.91      0.90      0.90      4908

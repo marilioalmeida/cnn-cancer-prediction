@@ -15,10 +15,9 @@ def build_cnn_model(input_shape):
     img_conc = Concatenate()([img_input, img_input, img_input])   
     base_model = Xception(include_top=False,  input_tensor=img_conc, weights='imagenet') 
     x = base_model.output
-    x = GlobalAveragePooling2D()(x)
-    x = Dense(1024, activation='relu')(x)
-    predictions = Dense(12, activation='softmax')(x)
-    model = Model(inputs=base_model.input, outputs=predictions)
+    x = GlobalAveragePooling2D()(x) 
+    predictions = Dense(12, activation='softmax')(x)  
+    model = Model(inputs=base_model.input, outputs=predictions) 
     return model
  
  

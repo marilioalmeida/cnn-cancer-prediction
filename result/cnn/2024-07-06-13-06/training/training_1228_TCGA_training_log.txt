@@ -1,0 +1,102 @@
+Epoch:	1/100	Loss:	1.203237	Acc:	0.638436	MCC:	0.554892	Val_Loss:	2.189549	Val_Acc:	0.374593	Val_MCC:	0.000000
+Epoch:	2/100	Loss:	0.352656	Acc:	0.889251	MCC:	0.877310	Val_Loss:	2.040705	Val_Acc:	0.338762	Val_MCC:	0.000000
+Epoch:	3/100	Loss:	0.234099	Acc:	0.929425	MCC:	0.921470	Val_Loss:	1.894833	Val_Acc:	0.387622	Val_MCC:	0.066513
+Epoch:	4/100	Loss:	0.150688	Acc:	0.948969	MCC:	0.947183	Val_Loss:	1.569823	Val_Acc:	0.472313	Val_MCC:	0.341618
+Epoch:	5/100	Loss:	0.101556	Acc:	0.970684	MCC:	0.967656	Val_Loss:	1.129155	Val_Acc:	0.641694	Val_MCC:	0.561891
+Epoch:	6/100	Loss:	0.077669	Acc:	0.976113	MCC:	0.971746	Val_Loss:	0.748736	Val_Acc:	0.811075	Val_MCC:	0.713739
+Epoch:	7/100	Loss:	0.074051	Acc:	0.977199	MCC:	0.976048	Val_Loss:	0.694741	Val_Acc:	0.811075	Val_MCC:	0.720490
+Epoch:	8/100	Loss:	0.054930	Acc:	0.982628	MCC:	0.980765	Val_Loss:	0.239210	Val_Acc:	0.938111	Val_MCC:	0.933970
+Epoch:	9/100	Loss:	0.120455	Acc:	0.959826	MCC:	0.956744	Val_Loss:	0.358361	Val_Acc:	0.912052	Val_MCC:	0.908598
+Epoch:	10/100	Loss:	0.039146	Acc:	0.989142	MCC:	0.988923	Val_Loss:	0.187744	Val_Acc:	0.951140	Val_MCC:	0.949466
+Epoch:	11/100	Loss:	0.011898	Acc:	0.994571	MCC:	0.995329	Val_Loss:	0.196381	Val_Acc:	0.960912	Val_MCC:	0.959407
+Epoch:	12/100	Loss:	0.004663	Acc:	1.000000	MCC:	1.000000	Val_Loss:	0.191824	Val_Acc:	0.954397	Val_MCC:	0.951658
+Epoch:	13/100	Loss:	0.002099	Acc:	1.000000	MCC:	1.000000	Val_Loss:	0.199080	Val_Acc:	0.954397	Val_MCC:	0.949623
+Epoch:	14/100	Loss:	0.001456	Acc:	1.000000	MCC:	1.000000	Val_Loss:	0.201303	Val_Acc:	0.954397	Val_MCC:	0.951658
+Epoch:	15/100	Loss:	0.001193	Acc:	1.000000	MCC:	1.000000	Val_Loss:	0.208825	Val_Acc:	0.957655	Val_MCC:	0.955155
+Epoch:	16/100	Loss:	0.001066	Acc:	1.000000	MCC:	1.000000	Val_Loss:	0.212999	Val_Acc:	0.954397	Val_MCC:	0.951658
+Epoch:	17/100	Loss:	0.000961	Acc:	1.000000	MCC:	1.000000	Val_Loss:	0.215517	Val_Acc:	0.954397	Val_MCC:	0.951658
+Epoch:	18/100	Loss:	0.000896	Acc:	1.000000	MCC:	1.000000	Val_Loss:	0.219933	Val_Acc:	0.954397	Val_MCC:	0.951658
+Epoch:	19/100	Loss:	0.000820	Acc:	1.000000	MCC:	1.000000	Val_Loss:	0.223308	Val_Acc:	0.954397	Val_MCC:	0.951658
+Epoch:	20/100	Loss:	0.000768	Acc:	1.000000	MCC:	1.000000	Val_Loss:	0.226318	Val_Acc:	0.954397	Val_MCC:	0.951658
+Epoch:	21/100	Loss:	0.000693	Acc:	1.000000	MCC:	1.000000	Val_Loss:	0.226006	Val_Acc:	0.954397	Val_MCC:	0.951658
+Epoch:	22/100	Loss:	0.000640	Acc:	1.000000	MCC:	1.000000	Val_Loss:	0.228397	Val_Acc:	0.954397	Val_MCC:	0.951658
+Epoch:	23/100	Loss:	0.000610	Acc:	1.000000	MCC:	1.000000	Val_Loss:	0.228772	Val_Acc:	0.954397	Val_MCC:	0.951658
+Epoch:	24/100	Loss:	0.000572	Acc:	1.000000	MCC:	1.000000	Val_Loss:	0.229026	Val_Acc:	0.954397	Val_MCC:	0.951658
+Epoch:	25/100	Loss:	0.000548	Acc:	1.000000	MCC:	1.000000	Val_Loss:	0.232321	Val_Acc:	0.954397	Val_MCC:	0.951658
+Epoch:	26/100	Loss:	0.000515	Acc:	1.000000	MCC:	1.000000	Val_Loss:	0.233207	Val_Acc:	0.954397	Val_MCC:	0.951658
+Epoch:	27/100	Loss:	0.000502	Acc:	1.000000	MCC:	1.000000	Val_Loss:	0.237479	Val_Acc:	0.954397	Val_MCC:	0.951658
+Epoch:	28/100	Loss:	0.000453	Acc:	1.000000	MCC:	1.000000	Val_Loss:	0.233667	Val_Acc:	0.954397	Val_MCC:	0.951658
+Epoch:	29/100	Loss:	0.000428	Acc:	1.000000	MCC:	1.000000	Val_Loss:	0.236780	Val_Acc:	0.954397	Val_MCC:	0.951658
+Epoch:	30/100	Loss:	0.000403	Acc:	1.000000	MCC:	1.000000	Val_Loss:	0.234730	Val_Acc:	0.954397	Val_MCC:	0.951658
+Epoch:	31/100	Loss:	0.000380	Acc:	1.000000	MCC:	1.000000	Val_Loss:	0.236012	Val_Acc:	0.954397	Val_MCC:	0.951658
+Epoch:	32/100	Loss:	0.000357	Acc:	1.000000	MCC:	1.000000	Val_Loss:	0.237013	Val_Acc:	0.954397	Val_MCC:	0.951658
+Epoch:	33/100	Loss:	0.000343	Acc:	1.000000	MCC:	1.000000	Val_Loss:	0.239745	Val_Acc:	0.954397	Val_MCC:	0.951658
+Epoch:	34/100	Loss:	0.000335	Acc:	1.000000	MCC:	1.000000	Val_Loss:	0.240514	Val_Acc:	0.954397	Val_MCC:	0.951658
+Epoch:	35/100	Loss:	0.000314	Acc:	1.000000	MCC:	1.000000	Val_Loss:	0.238900	Val_Acc:	0.954397	Val_MCC:	0.951658
+Epoch:	36/100	Loss:	0.000297	Acc:	1.000000	MCC:	1.000000	Val_Loss:	0.240880	Val_Acc:	0.954397	Val_MCC:	0.951658
+Epoch:	37/100	Loss:	0.000288	Acc:	1.000000	MCC:	1.000000	Val_Loss:	0.241184	Val_Acc:	0.954397	Val_MCC:	0.951658
+Epoch:	38/100	Loss:	0.000265	Acc:	1.000000	MCC:	1.000000	Val_Loss:	0.243229	Val_Acc:	0.954397	Val_MCC:	0.951658
+Epoch:	39/100	Loss:	0.000257	Acc:	1.000000	MCC:	1.000000	Val_Loss:	0.244031	Val_Acc:	0.954397	Val_MCC:	0.951658
+Epoch:	40/100	Loss:	0.000245	Acc:	1.000000	MCC:	1.000000	Val_Loss:	0.245483	Val_Acc:	0.954397	Val_MCC:	0.951658
+Epoch:	41/100	Loss:	0.000236	Acc:	1.000000	MCC:	1.000000	Val_Loss:	0.245528	Val_Acc:	0.954397	Val_MCC:	0.951658
+Epoch:	42/100	Loss:	0.000223	Acc:	1.000000	MCC:	1.000000	Val_Loss:	0.245612	Val_Acc:	0.954397	Val_MCC:	0.951658
+Epoch:	43/100	Loss:	0.000208	Acc:	1.000000	MCC:	1.000000	Val_Loss:	0.248368	Val_Acc:	0.954397	Val_MCC:	0.951658
+Epoch:	44/100	Loss:	0.000202	Acc:	1.000000	MCC:	1.000000	Val_Loss:	0.249176	Val_Acc:	0.954397	Val_MCC:	0.951658
+Epoch:	45/100	Loss:	0.000190	Acc:	1.000000	MCC:	1.000000	Val_Loss:	0.248101	Val_Acc:	0.954397	Val_MCC:	0.951658
+Epoch:	46/100	Loss:	0.000183	Acc:	1.000000	MCC:	1.000000	Val_Loss:	0.249319	Val_Acc:	0.954397	Val_MCC:	0.951658
+Epoch:	47/100	Loss:	0.000176	Acc:	1.000000	MCC:	1.000000	Val_Loss:	0.251186	Val_Acc:	0.954397	Val_MCC:	0.951658
+Epoch:	48/100	Loss:	0.000169	Acc:	1.000000	MCC:	1.000000	Val_Loss:	0.251739	Val_Acc:	0.954397	Val_MCC:	0.951658
+Epoch:	49/100	Loss:	0.000162	Acc:	1.000000	MCC:	1.000000	Val_Loss:	0.252936	Val_Acc:	0.954397	Val_MCC:	0.951658
+Epoch:	50/100	Loss:	0.000152	Acc:	1.000000	MCC:	1.000000	Val_Loss:	0.253808	Val_Acc:	0.954397	Val_MCC:	0.951658
+Epoch:	51/100	Loss:	0.000147	Acc:	1.000000	MCC:	1.000000	Val_Loss:	0.254873	Val_Acc:	0.954397	Val_MCC:	0.951658
+Epoch:	52/100	Loss:	0.000141	Acc:	1.000000	MCC:	1.000000	Val_Loss:	0.256127	Val_Acc:	0.954397	Val_MCC:	0.951658
+Epoch:	53/100	Loss:	0.000135	Acc:	1.000000	MCC:	1.000000	Val_Loss:	0.256046	Val_Acc:	0.954397	Val_MCC:	0.951658
+Epoch:	54/100	Loss:	0.000130	Acc:	1.000000	MCC:	1.000000	Val_Loss:	0.257934	Val_Acc:	0.954397	Val_MCC:	0.951658
+Epoch:	55/100	Loss:	0.000122	Acc:	1.000000	MCC:	1.000000	Val_Loss:	0.257635	Val_Acc:	0.954397	Val_MCC:	0.951658
+Epoch:	56/100	Loss:	0.000116	Acc:	1.000000	MCC:	1.000000	Val_Loss:	0.258223	Val_Acc:	0.954397	Val_MCC:	0.951658
+Epoch:	57/100	Loss:	0.000112	Acc:	1.000000	MCC:	1.000000	Val_Loss:	0.260475	Val_Acc:	0.954397	Val_MCC:	0.951658
+Epoch:	58/100	Loss:	0.000108	Acc:	1.000000	MCC:	1.000000	Val_Loss:	0.261114	Val_Acc:	0.954397	Val_MCC:	0.951658
+Epoch:	59/100	Loss:	0.000103	Acc:	1.000000	MCC:	1.000000	Val_Loss:	0.261845	Val_Acc:	0.954397	Val_MCC:	0.951658
+Epoch:	60/100	Loss:	0.000100	Acc:	1.000000	MCC:	1.000000	Val_Loss:	0.260590	Val_Acc:	0.954397	Val_MCC:	0.951658
+Epoch:	61/100	Loss:	0.000095	Acc:	1.000000	MCC:	1.000000	Val_Loss:	0.262999	Val_Acc:	0.954397	Val_MCC:	0.951658
+Epoch:	62/100	Loss:	0.000092	Acc:	1.000000	MCC:	1.000000	Val_Loss:	0.264614	Val_Acc:	0.954397	Val_MCC:	0.951658
+Epoch:	63/100	Loss:	0.000087	Acc:	1.000000	MCC:	1.000000	Val_Loss:	0.264236	Val_Acc:	0.954397	Val_MCC:	0.951658
+Epoch:	64/100	Loss:	0.000085	Acc:	1.000000	MCC:	1.000000	Val_Loss:	0.265220	Val_Acc:	0.954397	Val_MCC:	0.951658
+Epoch:	65/100	Loss:	0.000081	Acc:	1.000000	MCC:	1.000000	Val_Loss:	0.265855	Val_Acc:	0.954397	Val_MCC:	0.951658
+Epoch:	66/100	Loss:	0.000077	Acc:	1.000000	MCC:	1.000000	Val_Loss:	0.266438	Val_Acc:	0.954397	Val_MCC:	0.951658
+Epoch:	67/100	Loss:	0.000074	Acc:	1.000000	MCC:	1.000000	Val_Loss:	0.267790	Val_Acc:	0.954397	Val_MCC:	0.951658
+Epoch:	68/100	Loss:	0.000072	Acc:	1.000000	MCC:	1.000000	Val_Loss:	0.268025	Val_Acc:	0.954397	Val_MCC:	0.951658
+Epoch:	69/100	Loss:	0.000069	Acc:	1.000000	MCC:	1.000000	Val_Loss:	0.269085	Val_Acc:	0.954397	Val_MCC:	0.951658
+Epoch:	70/100	Loss:	0.000067	Acc:	1.000000	MCC:	1.000000	Val_Loss:	0.269993	Val_Acc:	0.954397	Val_MCC:	0.951658
+Epoch:	71/100	Loss:	0.000064	Acc:	1.000000	MCC:	1.000000	Val_Loss:	0.271750	Val_Acc:	0.954397	Val_MCC:	0.951658
+Accuracy: 0.989
+Precision Macro: 0.988
+Precision Micro: 0.989
+Recall Macro: 0.985
+Recall Micro: 0.989
+F1 Score Macro: 0.986
+F1 Score Micro: 0.989
+MCC: 0.987
+ROC AUC Score: 0.999
+Log Loss: 0.068
+Average Precision Macro: 0.994
+Average Precision Micro: 0.996
+Report: 
+              precision    recall  f1-score   support
+
+           0       0.99      1.00      0.99       307
+           1       0.99      0.99      0.99       171
+           2       0.99      1.00      1.00       108
+           3       0.97      0.99      0.98        90
+           4       0.99      1.00      0.99        90
+           5       1.00      0.99      0.99        78
+           6       0.97      0.95      0.96        78
+           7       1.00      1.00      1.00        75
+           8       0.98      0.97      0.98        66
+           9       1.00      0.97      0.98        63
+          10       0.96      0.98      0.97        54
+          11       1.00      0.98      0.99        48
+
+    accuracy                           0.99      1228
+   macro avg       0.99      0.98      0.99      1228
+weighted avg       0.99      0.99      0.99      1228
