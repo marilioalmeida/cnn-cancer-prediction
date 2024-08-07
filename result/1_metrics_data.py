@@ -67,26 +67,26 @@ def read_metrics_and_confusion_matrix_from_txt_file(file_path):
             if capture_metrics:
                 if "Accuracy:" in line:
                     metrics['Accuracy'] = float(line.split(': ')[1])
-                elif "Precision Macro:" in line:
-                    metrics['Precision Macro'] = float(line.split(': ')[1])
+                # elif "Precision Macro:" in line:
+                #     metrics['Precision Macro'] = float(line.split(': ')[1])
                 elif "Precision Micro:" in line:
                     metrics['Precision Micro'] = float(line.split(': ')[1])
-                elif "Recall Macro:" in line:
-                    metrics['Recall Macro'] = float(line.split(': ')[1])
+                # elif "Recall Macro:" in line:
+                #     metrics['Recall Macro'] = float(line.split(': ')[1])
                 elif "Recall Micro:" in line:
                     metrics['Recall Micro'] = float(line.split(': ')[1])
-                elif "F1 Score Macro:" in line:
-                    metrics['F1 Score Macro'] = float(line.split(': ')[1])
+                # elif "F1 Score Macro:" in line:
+                #     metrics['F1 Score Macro'] = float(line.split(': ')[1])
                 elif "F1 Score Micro:" in line:
                     metrics['F1 Score Micro'] = float(line.split(': ')[1])
-                elif "MCC:" in line:
-                    metrics['MCC'] = float(line.split(': ')[1])
-                elif "ROC AUC Score:" in line:
-                    metrics['ROC AUC Score'] = float(line.split(': ')[1])
-                elif "Log Loss:" in line:
-                    metrics['Log Loss'] = float(line.split(': ')[1])
-                elif "Average Precision Macro:" in line:
-                    metrics['Average Precision Macro'] = float(line.split(': ')[1])
+                # elif "MCC:" in line:
+                #     metrics['MCC'] = float(line.split(': ')[1])
+                # elif "ROC AUC Score:" in line:
+                #     metrics['ROC AUC Score'] = float(line.split(': ')[1])
+                # elif "Log Loss:" in line:
+                #     metrics['Log Loss'] = float(line.split(': ')[1])
+                # elif "Average Precision Macro:" in line:
+                #     metrics['Average Precision Macro'] = float(line.split(': ')[1])
                 elif "Average Precision Micro:" in line:
                     metrics['Average Precision Micro'] = float(line.split(': ')[1])
                 if "Average Precision Micro:" in line:
